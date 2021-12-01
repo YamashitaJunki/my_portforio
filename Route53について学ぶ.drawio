@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="GXjACbaW-O-9d7NERr5U" name="Page-1">
-        <mxGraphModel dx="1758" dy="1336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="879" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -141,6 +141,9 @@
                 </mxCell>
                 <mxCell id="50" value="&lt;font style=&quot;font-size: 14px&quot;&gt;仮に１つのサーバーが壊れても&lt;br&gt;他のところが利用できるので&lt;br&gt;トラブルが起こることがない！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
                     <mxGeometry x="540" y="1934" width="200" height="106" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;strong style=&quot;box-sizing: inherit ; color: rgb(51 , 51 , 51) ; font-family: , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;hiragino kaku gothic pron&amp;#34; , , &amp;#34;meiryo&amp;#34; , sans-serif ; font-size: 16px ; background-color: rgb(255 , 255 , 255)&quot;&gt;お名前.com で作ったドメインは、このRoute53を使って&lt;br&gt;紐づけることができる。&lt;br&gt;逆にこのRoute53を使わないと紐付けができないので&lt;br&gt;サイトを作るときに作ったドメインが使用できない&lt;br&gt;&lt;/strong&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="110" y="2060" width="510" height="180" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

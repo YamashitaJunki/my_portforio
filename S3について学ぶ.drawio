@@ -1,101 +1,113 @@
 <mxfile host="65bd71144e">
     <diagram id="s8f_4PNwAwCbkTMkR_yM" name="Page-1">
-        <mxGraphModel dx="1034" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="879" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="45" width="390" height="75" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="550" y="1010" width="220" height="127.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="31" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="70" y="1011.25" width="220" height="127.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="5" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="190" y="130" width="410" height="270" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="Amazonが100個以上の色々な&lt;br&gt;クラウドコンピューティングを提供している" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="250" y="190" width="290" height="80" as="geometry"/>
+                <mxCell id="3" value="Amazonが100個以上の色々な&lt;br&gt;&lt;u&gt;クラウドコンピューティング&lt;/u&gt;を提供している" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="190" width="240" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;pre&gt;&lt;font style=&quot;font-size: 70px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#ff9933&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;AW&lt;/font&gt;S&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="4" value="&lt;pre&gt;&lt;font style=&quot;font-size: 70px&quot; face=&quot;Comic Sans MS&quot; color=&quot;#ff9933&quot;&gt;&lt;font style=&quot;font-size: 70px&quot;&gt;AW&lt;/font&gt;S&lt;/font&gt;&lt;/pre&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="270" y="130" width="250" height="90" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="6" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="240" y="240" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="7" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="290" y="240" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="8" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="8" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="340" y="240" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="9" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="389" y="240" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="10" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="10" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="439" y="240" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="11" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="240.5" y="270" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="12" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="290.5" y="270" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="13" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="340.5" y="270" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="14" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="389" y="285" width="50" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" vertex="1" parent="1">
+                <mxCell id="15" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Computer_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="439.5" y="270" width="50" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value=",,,100個以上！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="16" value=",,,100個以上！" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="440" y="310" width="160" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="endArrow=classic;html=1;entryX=0.485;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="14" target="19">
+                <mxCell id="17" value="" style="endArrow=classic;html=1;entryX=0.485;entryY=-0.059;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="14" target="19" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="410" y="330" as="sourcePoint"/>
                         <mxPoint x="400" y="540" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="18" value="そのうちの１つである" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="18" value="そのうちの１つである" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="344" y="420" width="140" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="19" value="&lt;font style=&quot;font-size: 80px&quot; face=&quot;Times New Roman&quot; color=&quot;#ff3333&quot;&gt;Amazon S3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="19" value="&lt;font style=&quot;font-size: 80px&quot; face=&quot;Times New Roman&quot; color=&quot;#ff3333&quot;&gt;Amazon S3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="120" y="490" width="540" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" value="&lt;br&gt;※静的サービス：表示の内容が変わることのないページなどのこと。&lt;br&gt;　　　　　　　　ブログや会社概要ページ、ポートフォリオなどが該当します。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="20" value="&lt;br&gt;※静的サービス：表示の内容が変わることのないページなどのこと。&lt;br&gt;　　　　　　　　ブログや会社概要ページ、ポートフォリオなどが該当します。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="270" y="540" width="480" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="&lt;font style=&quot;font-size: 26px&quot;&gt;静的なコンテンツを配信できるサービス&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="21" value="&lt;font style=&quot;font-size: 26px&quot;&gt;静的なコンテンツを配信できるサービス&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="105" y="500" width="580" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="23" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="150" y="640" width="580" height="200" as="geometry"/>
                 </mxCell>
-                <mxCell id="24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;・使える容量が自動で増えたり減ったりしてくれる&lt;br&gt;　　→無駄に容量でお金を払ったりする必要がない&lt;br&gt;・安全性バツグン！データが消えてしまう可能性はほぼ0％&lt;br&gt;・使った容量分のみ料金が発生するので最低限の資金だけ払うことができる。&lt;br&gt;・たくさんの便利なツールがある！&lt;br&gt;　→作ったサイトのアクセス数分析ツールなどなど&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="24" value="&lt;font style=&quot;font-size: 14px&quot;&gt;・使える容量が自動で増えたり減ったりしてくれる&lt;br&gt;　　→無駄に容量でお金を払ったりする必要がない&lt;br&gt;・安全性バツグン！データが消えてしまう可能性はほぼ0％&lt;br&gt;・使った容量分のみ料金が発生するので最低限の資金だけ払うことができる。&lt;br&gt;・たくさんの便利なツールがある！&lt;br&gt;　→作ったサイトのアクセス数分析ツールなどなど&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="160" y="690" width="560" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="&lt;font style=&quot;font-size: 34px ; background-color: rgb(255 , 255 , 0)&quot; color=&quot;#000000&quot;&gt;このサービスのメリットは？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="25" value="&lt;font style=&quot;font-size: 34px ; background-color: rgb(255 , 255 , 0)&quot; color=&quot;#000000&quot;&gt;このサービスのメリットは？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="170" y="660" width="540" height="40" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="&lt;font style=&quot;font-size: 32px&quot; color=&quot;#ff66b3&quot;&gt;値段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="26" value="&lt;font style=&quot;font-size: 32px&quot; color=&quot;#ff66b3&quot;&gt;値段&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="45" y="1010" width="270" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="30" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="310" y="860" width="220" height="127.5" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="&lt;font color=&quot;#ff66b3&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;容量&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="32" value="&lt;font color=&quot;#ff66b3&quot;&gt;&lt;span style=&quot;font-size: 32px&quot;&gt;容量&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="290.5" y="860" width="270" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="&lt;font style=&quot;font-size: 32px&quot; color=&quot;#ff66b3&quot;&gt;セキュリティ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="33" value="&lt;font style=&quot;font-size: 32px&quot; color=&quot;#ff66b3&quot;&gt;セキュリティ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="525" y="1007.5" width="270" height="130" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.455;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="34" target="34">
+                <mxCell id="36" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.455;entryY=0.004;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="34" target="34" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ffff99&quot;&gt;全てにメリットがある！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="39" value="&lt;font style=&quot;font-size: 24px&quot; color=&quot;#ffff99&quot;&gt;全てにメリットがある！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="275" y="950" width="290" height="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="41" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="3">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="390" y="280" as="sourcePoint"/>
+                        <mxPoint x="170" y="120" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="42" value="クラウドコンピューティング？&lt;br&gt;→実物のサーバー（パソコン）などを利用するのではなく&lt;br&gt;　インターネット上に存在する、実物が無いサーバー（パソコン）&lt;br&gt;　を利用することができる" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="30" y="37.5" width="420" height="90" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>

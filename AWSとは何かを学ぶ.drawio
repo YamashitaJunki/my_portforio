@@ -1,153 +1,153 @@
 <mxfile host="65bd71144e">
     <diagram id="6A7s7L8ebVeL8f0ByE_u" name="Page-1">
-        <mxGraphModel dx="594" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+        <mxGraphModel dx="415" dy="730" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="44" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="90" y="20" width="680" height="600" as="geometry"/>
                 </mxCell>
-                <mxCell id="36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="36" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="870" y="220" width="240" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" vertex="1" parent="1">
+                <mxCell id="26" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.home;" parent="1" vertex="1">
                     <mxGeometry x="150" y="10" width="270" height="610" as="geometry"/>
                 </mxCell>
-                <mxCell id="3" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Rack_128x128.png" vertex="1" parent="1">
+                <mxCell id="3" value="" style="image;html=1;image=img/lib/clip_art/networking/Cloud_Rack_128x128.png" parent="1" vertex="1">
                     <mxGeometry x="530" y="90" width="120" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="4" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ffff33&quot;&gt;物理サーバ&lt;br&gt;&lt;/font&gt;実物のサーバー（パソコン）を&lt;br&gt;置いて利用していた" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="4" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ffff33&quot;&gt;物理サーバ&lt;br&gt;&lt;/font&gt;実物のサーバー（パソコン）を&lt;br&gt;置いて利用していた" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="160" y="180" width="260" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="5" value="&lt;font style=&quot;font-size: 30px&quot;&gt;従来&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="5" value="&lt;font style=&quot;font-size: 30px&quot;&gt;従来&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="240" y="50" width="100" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;クラウドコンピューティング&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 20px&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;クラウドコンピューティング&lt;br&gt;&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="420" y="70" width="330" height="290" as="geometry"/>
                 </mxCell>
-                <mxCell id="9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;インターネット上にある&lt;br&gt;サーバーにアクセスして&lt;br&gt;利用することができる&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="450" y="160" width="280" height="150" as="geometry"/>
+                <mxCell id="9" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;color: rgb(209 , 210 , 211) ; font-family: &amp;#34;notosansjp&amp;#34; , , &amp;#34;applelogo&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(34 , 37 , 41)&quot;&gt;何千何万台の工場で動いている、サーバマシン専用のコンピューターたちを&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit ; color: rgb(209 , 210 , 211) ; font-family: &amp;#34;notosansjp&amp;#34; , , &amp;#34;applelogo&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(34 , 37 , 41)&quot;&gt;&lt;span style=&quot;color: rgb(209 , 210 , 211) ; font-family: &amp;#34;notosansjp&amp;#34; , , &amp;#34;applelogo&amp;#34; , sans-serif ; text-align: left ; background-color: rgb(34 , 37 , 41)&quot;&gt;インターネットを使って、利用したい分だけ使うことができる仕組み&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="170" width="280" height="150" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" style="edgeStyle=none;html=1;" edge="1" parent="1" source="10">
+                <mxCell id="13" style="edgeStyle=none;html=1;" parent="1" source="10" edge="1">
                     <mxGeometry relative="1" as="geometry">
                         <mxPoint x="510" y="80" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="10" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff1c1c&quot;&gt;新しく登場&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="10" value="&lt;font style=&quot;font-size: 20px&quot; color=&quot;#ff1c1c&quot;&gt;新しく登場&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="520" y="60" width="130" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="10">
+                <mxCell id="11" value="" style="shape=flexArrow;endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="10" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="340" y="90" as="sourcePoint"/>
                         <mxPoint x="490" y="90" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="12" value="・物理的な設置作業がない&lt;br&gt;→場所や管理の手間、設定のお金がかからない！" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="480" y="180" width="380" height="220" as="geometry"/>
+                <mxCell id="12" value="・物理的な設置作業がない&lt;br&gt;→場所や管理の手間、設定のお金がかからない！" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="460" y="185" width="380" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;自社の建物の中などに&lt;br&gt;物理サーバーを置く必要がある&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="16" value="&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; font-size: 16px ; text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;自社の建物の中などに&lt;br&gt;物理サーバーを置く必要がある&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="175" y="490" width="230" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="17" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+                <mxCell id="17" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
                     <mxGeometry x="243.48" y="320" width="84.52" height="114.55" as="geometry"/>
                 </mxCell>
-                <mxCell id="18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+                <mxCell id="18" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="380" y="380" as="sourcePoint"/>
                         <mxPoint x="380" y="380" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="21" value="" style="endArrow=classic;startArrow=classic;html=1;" edge="1" parent="1" source="17">
+                <mxCell id="21" value="" style="endArrow=classic;startArrow=classic;html=1;" parent="1" source="17" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="380" y="380" as="sourcePoint"/>
                         <mxPoint x="290" y="250" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="22" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+                <mxCell id="22" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" parent="1" vertex="1">
                     <mxGeometry x="542.74" y="355.45" width="84.52" height="114.55" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.524;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="22">
+                <mxCell id="23" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=0.524;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="22" edge="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
                         <mxPoint x="301.317064287015" y="340" as="sourcePoint"/>
                         <mxPoint x="587" y="190" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="24" value="物体の無い→&lt;font color=&quot;#ff66b3&quot;&gt;仮想サーバー&lt;/font&gt;という" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="24" value="物体の無い→&lt;font color=&quot;#ff66b3&quot;&gt;仮想サーバー&lt;/font&gt;という" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="542.74" y="250" width="290" height="140" as="geometry"/>
                 </mxCell>
-                <mxCell id="25" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.house;" vertex="1" parent="1">
+                <mxCell id="25" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#6CAE3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.house;" parent="1" vertex="1">
                     <mxGeometry x="250" y="110" width="78" height="78" as="geometry"/>
                 </mxCell>
-                <mxCell id="27" value="&lt;font style=&quot;font-size: 60px&quot; color=&quot;#ff9933&quot; face=&quot;Comic Sans MS&quot;&gt;AWS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="27" value="&lt;font style=&quot;font-size: 60px&quot; color=&quot;#ff9933&quot; face=&quot;Comic Sans MS&quot;&gt;AWS&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="910" y="88" width="200" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="28" value="Amazonが100個以上の色々な&lt;br&gt;クラウドコンピューティングを提供している" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="28" value="Amazonが100個以上の色々な&lt;br&gt;クラウドコンピューティングを提供している" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="780" y="20" width="260" height="110" as="geometry"/>
                 </mxCell>
-                <mxCell id="29" value="これの総称を..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="29" value="これの総称を..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="860" y="60" width="190" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="30" value="という" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="30" value="という" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1080" y="168" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="32" value="【代表的な４つのサービス】" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="32" value="【代表的な４つのサービス】" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1040" y="190" width="190" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" value="&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="33" value="&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1040" y="270" width="40" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="35" value="&lt;h1&gt;・Amazon EC2&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 9px&quot;&gt;必要に応じて容量などのスペックを変更できる仮想サーバーを作成・利用できるサービス&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                <mxCell id="35" value="&lt;h1&gt;・Amazon EC2&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 9px&quot;&gt;必要に応じて容量などのスペックを変更できる仮想サーバーを作成・利用できるサービス&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="900" y="230" width="190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="37" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="37" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="1170" y="220" width="240" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="38" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF1C1C;" vertex="1" parent="1">
+                <mxCell id="38" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#FF1C1C;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="390" width="240" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="39" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="39" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="875" y="390" width="240" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="40" value="&lt;h1&gt;・Amazon S3&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 10px&quot;&gt;静的なコンテンツを配信できるサービス&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                <mxCell id="40" value="&lt;h1&gt;・Amazon S3&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 10px&quot;&gt;静的なコンテンツを配信できるサービス&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1205" y="410" width="190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="42" value="&lt;h1&gt;・Amazon RDS&lt;/h1&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;管理負担を抑えられるデータベースが使えるサービス&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                <mxCell id="42" value="&lt;h1&gt;・Amazon RDS&lt;/h1&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font style=&quot;font-size: 9px&quot;&gt;管理負担を抑えられるデータベースが使えるサービス&lt;/font&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="900" y="400" width="190" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="43" value="&lt;h1&gt;AWS Lambda&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 9px&quot;&gt;サーバーを使わないで、プログラムを実行できる環境を提供するサービス&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                <mxCell id="43" value="&lt;h1&gt;AWS Lambda&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;color: rgb(33 , 37 , 41) ; font-family: , &amp;#34;meiryo&amp;#34; , &amp;#34;hiragino kaku gothic pro&amp;#34; , &amp;#34;ヒラギノ角ゴ pro w3&amp;#34; , &amp;#34;hiragino sans&amp;#34; , &amp;#34;noto sans jp&amp;#34; , sans-serif ; background-color: rgb(255 , 255 , 255) ; font-size: 9px&quot;&gt;サーバーを使わないで、プログラムを実行できる環境を提供するサービス&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1205" y="220" width="190" height="120" as="geometry"/>
                 </mxCell>
-                <mxCell id="58" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="45" target="44">
+                <mxCell id="58" style="edgeStyle=none;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="1" source="45" target="44" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="45" value="&lt;font style=&quot;font-size: 51px&quot;&gt;クラウドコンピューティングとは？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="45" value="&lt;font style=&quot;font-size: 51px&quot;&gt;クラウドコンピューティングとは？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="80" y="650" width="700" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="47" value="&lt;font style=&quot;font-size: 12px&quot;&gt;※データベース？&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;→大量にあるデータを検索しやすくするもの&lt;br&gt;顧客情報を項目ごとにまとめたものなど。紙の電話帳や辞書も&lt;br&gt;データベースと言える！&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="47" value="&lt;font style=&quot;font-size: 12px&quot;&gt;※データベース？&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 6px&quot;&gt;→大量にあるデータを検索しやすくするもの&lt;br&gt;顧客情報を項目ごとにまとめたものなど。紙の電話帳や辞書も&lt;br&gt;データベースと言える！&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="910" y="480" width="180" height="70" as="geometry"/>
                 </mxCell>
-                <mxCell id="48" value="ピンとこないのでスルー" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="48" value="ピンとこないのでスルー" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1330" y="277.5" width="240" height="35" as="geometry"/>
                 </mxCell>
-                <mxCell id="49" value="&lt;font style=&quot;font-size: 19px&quot; color=&quot;#ff1c1c&quot;&gt;&lt;b&gt;今回のポートフォリオの作成は&lt;br&gt;この「Amazon S3」を使います！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="49" value="&lt;font style=&quot;font-size: 19px&quot; color=&quot;#ff1c1c&quot;&gt;&lt;b&gt;今回のポートフォリオの作成は&lt;br&gt;この「Amazon S3」を使います！&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="485" width="320" height="100" as="geometry"/>
                 </mxCell>
-                <mxCell id="50" value="&lt;b style=&quot;font-size: 18px&quot;&gt;静的なコンテンツとは...?&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="50" value="&lt;b style=&quot;font-size: 18px&quot;&gt;静的なコンテンツとは...?&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1290" y="580" width="280" height="50" as="geometry"/>
                 </mxCell>
-                <mxCell id="51" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+                <mxCell id="51" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="1170" y="660" width="180" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" vertex="1" parent="1">
+                <mxCell id="52" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;" parent="1" vertex="1">
                     <mxGeometry x="1440" y="660" width="180" height="220" as="geometry"/>
                 </mxCell>
-                <mxCell id="53" value="静的コンテンツ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="53" value="静的コンテンツ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1160" y="660" width="200" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="54" value="動的コンテンツ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="54" value="動的コンテンツ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1425" y="660" width="210" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="55" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=-0.005;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="51" target="52">
+                <mxCell id="55" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;entryX=-0.005;entryY=0.147;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.005;exitY=0.147;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="51" target="52" edge="1">
                     <mxGeometry width="100" height="100" relative="1" as="geometry">
                         <mxPoint x="1330" y="740" as="sourcePoint"/>
                         <mxPoint x="1430" y="640" as="targetPoint"/>
@@ -156,13 +156,13 @@
                         </Array>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="56" value="表示の内容が変わることのないページなど&lt;br&gt;ブログや会社概要ページ、&lt;br&gt;ポートフォリオなどが&lt;br&gt;該当します" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="56" value="表示の内容が変わることのないページなど&lt;br&gt;ブログや会社概要ページ、&lt;br&gt;ポートフォリオなどが&lt;br&gt;該当します" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1180" y="680" width="160" height="210" as="geometry"/>
                 </mxCell>
-                <mxCell id="57" value="利用者が入力して表示の結果が変わるページなど&lt;br&gt;インターネットの検索エンジン、通販サイトのログインページ&lt;br&gt;などが該当します" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                <mxCell id="57" value="利用者が入力して表示の結果が変わるページなど&lt;br&gt;インターネットの検索エンジン、通販サイトのログインページ&lt;br&gt;などが該当します" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="1440" y="710" width="180" height="160" as="geometry"/>
                 </mxCell>
-                <mxCell id="60" value="&lt;font color=&quot;#ffff33&quot; style=&quot;font-size: 15px&quot;&gt;Amazon S3でできるのはコレ！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;" vertex="1" parent="1">
+                <mxCell id="60" value="&lt;font color=&quot;#ffff33&quot; style=&quot;font-size: 15px&quot;&gt;Amazon S3でできるのはコレ！&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=10;" parent="1" vertex="1">
                     <mxGeometry x="1110" y="830" width="250" height="100" as="geometry"/>
                 </mxCell>
             </root>
